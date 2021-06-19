@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "c4eeb01f479a5230",
+    "type": "split",
+    "children": [
+      {
+        "id": "5891be96486761ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books/Machine Learning for Humans.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7519739405c4057c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0185e9c2239e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "539a086ece50906d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a64591e8fd614cac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ede0cd4093d23986",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8a783fc468fa1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4cb5652a2d0a1ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Machine Learning for Humans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5891be96486761ea",
+  "lastOpenFiles": [
+    "Books/Machine Learning for Humans.md",
+    "PDF Attachments/Machine Learning for Humans.pdf",
+    "Concepts/Concepts' Index.md",
+    "Concepts/Bias and Variance.md",
+    "Algorithms/Algorithms' Index.md",
+    "Documents/Rules of ML.md",
+    "Authors/Authors' Index.md",
+    "Authors/Martin Zinkevich.md",
+    "Authors/Samer Sabri.md",
+    "Authors/Vishal Maini.md"
+  ]
+}
